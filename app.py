@@ -5,7 +5,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 st.set_page_config(
-    page_title="Backtest Trade Analyzer",
+    page_title="Backtest Trade Analyzer sudi",
     layout="wide",
     initial_sidebar_state="expanded",
 )
