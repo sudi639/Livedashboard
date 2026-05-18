@@ -1,0 +1,4 @@
+__pycache__/
+.venv/
+info.txt
+sample_backtest.csv
